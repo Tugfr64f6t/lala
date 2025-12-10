@@ -71,7 +71,7 @@ sprint-backlog.md
 - [ ] Endpoint register/login/logout user (JWT)
 8. BONUS – Struktur Direktori Project
 Code
-<canvas>
+<canvas width="400" height="200" style="border:1px solid #ccc;">
 
 pos-microservice/
 ├── auth-service/
