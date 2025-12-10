@@ -71,6 +71,8 @@ sprint-backlog.md
 - [ ] Endpoint register/login/logout user (JWT)
 8. BONUS – Struktur Direktori Project
 Code
+
+
 pos-microservice/
 ├── auth-service/
 │   ├── main.go
@@ -97,5 +99,7 @@ pos-microservice/
 │   ├── Dockerfile
 │   └── ...
 └── docker-compose.yml
+
+
 Jika kamu ingin contoh backlog dalam format JIRA CSV/Trello, template database, atau diagram arsitektur service, bilang saja!
 Kalau ingin mulai coding file main.go, Dockerfile, atau schema database per service, juga bisa langsung request!
